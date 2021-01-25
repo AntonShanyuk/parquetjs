@@ -1,8 +1,8 @@
 {
-  "name": "parquetjs-lite-dict",
+  "name": "parquetjs-enaible",
   "description": "fully asynchronous, pure JavaScript implementation of the Parquet file format - updated to allow reading dict and non-dict pages in one file",
   "main": "parquet.js",
-  "version": "0.9.2",
+  "version": "0.1.1",
   "homepage": "https://github.com/nregenauer/parquetjs",
   "author": "ironSource <npm@ironsrc.com>",
   "license": "MIT",
